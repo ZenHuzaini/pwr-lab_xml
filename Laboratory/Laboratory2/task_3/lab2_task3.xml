@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lab2_task3.xsl"?>
+<university name = "PWr">
+    <faculty code= "W4">
+        <department title="Computer Science">
+            <dean>
+                <name>Peter Parker</name>
+                <description position="Highest Position">Dean and is able to produce strings</description>
+                <image>https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2018/01/Peter-Parker-Tom-Holland.png</image>
+            </dean>
+            <deanOne>
+                <name>Valkrie</name>
+                <description>Goot at fighting and is one of the strongest army for Asgard</description>
+                <image>https://i.redd.it/l31psewzpgp11.jpg</image>
+            </deanOne>
+            <secretary>
+                <name>Mary Jane</name>
+                <description>Graduated from University of Wroclaw</description>
+                <image>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/zendaya-red-hair-1560944630.jpg</image>
+            </secretary>
+            <secretaryOne>
+                <name>Thor</name>
+                <description>has powerful lightning</description>
+                <image>https://pbs.twimg.com/profile_images/1122529819743232000/3Kh5BZEr_400x400.jpg</image>
+            </secretaryOne>
+
+        </department>
+    </faculty>
+</university>

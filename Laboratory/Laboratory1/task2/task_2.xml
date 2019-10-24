@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university name = "Politechnika Wroclawska">
+    <faculty of = "Electronics &quot;W4&quot;">
+        <department of = "Computer Science">
+            <establishment year = "1945"></establishment>
+            <student gender = "male">
+                <numberOfStudent>5000</numberOfStudent>
+                <numberOfInternationalStudent>1050</numberOfInternationalStudent>
+            </student>
+            <student gender = "female">
+                <numberOfStudent>5000</numberOfStudent>
+                <numberOfInternationalStudent>100</numberOfInternationalStudent>
+            </student>
+        </department>
+        <department of = "Telecommunication">
+            <establishment year = "1915"></establishment>
+            <student gender = "male">
+                <numberOfStudent>300</numberOfStudent>
+                <numberOfInternationalStudent>10</numberOfInternationalStudent>
+            </student>
+            <student gender = "female">
+                <numberOfStudent>100</numberOfStudent>
+                <numberOfInternationalStudent>3</numberOfInternationalStudent>
+            </student>
+        </department>
+    </faculty>
+
+    <faculty of = "Computer Science &quot;W8&quot;">
+        <department of = "Computer Science">
+            <establishment year = "1945"></establishment>
+            <lecturer category = "Mgr. Inz.">
+                <numberOfLecturer>700</numberOfLecturer>
+            </lecturer>
+            <lecturer category = "PhD">
+                <numberOfLecturer>100</numberOfLecturer>
+            </lecturer>
+            <student gender = "male">
+                <numberOfStudent>5000</numberOfStudent>
+                <numberOfInternationalStudent>1050</numberOfInternationalStudent>
+            </student>
+            <student gender = "female">
+                <numberOfStudent>5000</numberOfStudent>
+                <numberOfInternationalStudent>100</numberOfInternationalStudent>
+            </student>
+        </department>
+    </faculty>
+</university>

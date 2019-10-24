@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<memories>
+    <memory tapeid="xxx1234">
+        <subdate>12345</subdate>
+        <donor>Abcd</donor>
+        <subject>efgh</subject>
+        <subject>ijkl</subject>
+        <location>
+            <place>mnopq</place>
+            <description>iklmnopq</description>
+        </location>
+        <media mediaid = "media1234"/>
+    </memory>
+</memories>

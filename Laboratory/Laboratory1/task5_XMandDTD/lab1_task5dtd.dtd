@@ -1,0 +1,15 @@
+<!DOCTYPE university[
+<!ELEMENT university (faculty+)>
+<!ATTLIST university name CDATA #FIXED "PWr">
+
+<!ELEMENT faculty (department+)>
+<!ATTLIST faculty code ID #REQUIRED>
+
+<!ELEMENT department (dean+,secretary+)>
+<!ATTLIST department title CDATA #REQUIRED>
+
+<!ELEMENT dean (name,description?)
+<!ELEMENT secretary (name,description?)
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST description position CDATA #IMPLIED>

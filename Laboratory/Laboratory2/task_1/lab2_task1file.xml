@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lab2_task1.xsl"?>
+<information>
+    <student>
+        <name>ABCDEF</name>
+        <homeAdress>Ul. Grundwadzka 65</homeAdress>
+        <phoneNumber>+48509518812</phoneNumber>
+        <job>Only Student</job>
+        <sex>male</sex>
+    </student>
+    <student>
+        <name>VWXYZ</name>
+        <homeAdress>Pl. Grundwaldzki</homeAdress>
+        <phoneNumber>+485095189992</phoneNumber>
+        <job>Student having part time job</job>
+        <sex>female</sex>
+    </student>
+</information>
+
+

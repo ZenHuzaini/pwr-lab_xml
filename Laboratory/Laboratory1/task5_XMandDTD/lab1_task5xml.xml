@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university name = "PWr">
+    <faculty code= "W4">
+        <department title="Computer Science">
+            <dean>
+                <name>Peter Parker</name>
+                <description position="aa">Abc def</description>
+            </dean>
+            <secretary>
+                <name>Mary Jane</name>
+                <description></description>
+            </secretary>
+        </department>
+        <department title="Electronics">
+            <dean>
+                <name>Dr. Strange</name>
+                <description></description>
+            </dean>
+            <secretary>
+                <name>Black Widow</name>
+                <description></description>
+            </secretary>
+        </department>
+    </faculty>
+
+    <faculty code= "W4">
+        <department title="Computer Science">
+            <dean>
+                <name>Peter Parker</name>
+                <description position="aa">Abc def</description>
+            </dean>
+            <secretary>
+                <name>Mary Jane</name>
+                <description></description>
+            </secretary>
+        </department>
+        <department title="Electronics">
+            <dean>
+                <name>Dr. Strange</name>
+                <description></description>
+            </dean>
+            <secretary>
+                <name>Black Widow</name>
+                <description></description>
+            </secretary>
+        </department>
+    </faculty>
+</university>
